@@ -1,0 +1,16 @@
+body {
+    background: #000;
+}
+
+h1 {
+    font: bold 36px Cambria;
+    color: aliceblue;
+    text-align: center;
+}
+
+p {
+    width: 500px;
+    color: aliceblue;
+    font: italic 16px Arial;
+    margin: auto;
+}
